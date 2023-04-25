@@ -10,6 +10,8 @@ nltk
 pypdf2
 wordcloud
 
+![word_cloud_image](https://github.com/rcastrucci/wordcloud/blob/main/example.png#gh-dark-mode-only)
+
 ### Clone this repository and give executable permission to the file wcloud.py
     chmod +x wcloud.py
 
